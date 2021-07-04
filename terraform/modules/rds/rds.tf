@@ -1,4 +1,4 @@
-resource "aws_db_instance" "default" {
+resource "aws_db_instance" "scriptcamp_db" {
   identifier           = var.identifier 
   allocated_storage    = var.db_storage
   engine               = var.db_engine
