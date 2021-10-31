@@ -1,0 +1,1 @@
+# This file contians the variables to create VPC and its components
